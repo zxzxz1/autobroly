@@ -1,4 +1,4 @@
-wait(2)
+wait(352352)
 --auto broly Made x_x
 --(;
 local moves = {
